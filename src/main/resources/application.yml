@@ -1,5 +1,6 @@
 spring.profiles.active: dev
 
+# Hibernate ddl auto (create, create-drop, validate, update)
 spring.jpa.hibernate.ddl-auto: update
 
 ribbon:
